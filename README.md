@@ -9,3 +9,4 @@ Simple. Fast. Yours. – An Arch-based Linux distribution built on top of AxOS.
 ![Download](https://img.shields.io/badge/download-ISO-green)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![StellaOS](https://img.shields.io/badge/StellaOS-Linux-black)
+Contact:stellaosproject@protonmail.com
