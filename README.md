@@ -8,6 +8,7 @@ Simple. Fast. Yours. – An Arch-based Linux distribution built on top of AxOS.
 ![Architecture](https://img.shields.io/badge/arch-x86__64-lightgrey)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![StellaOS](https://img.shields.io/badge/StellaOS-Linux-black)
+[![Linux Foundation](https://img.shields.io/badge/Linux-Foundation-blue?logo=linux)](https://www.linuxfoundation.org/)
 Contact:stellaosproject@protonmail.com
 ## Status
 StellaOS is currently under active development.
