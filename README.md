@@ -11,12 +11,12 @@ Simple. Fast. Yours. – An Arch-based Linux distribution built on top of AxOS.
 
 Contact:stellaosproject@protonmail.com
 
-Installation
+#Installation
 Stella currently provides a minimal CLI environment for manual installation.
 Follow the official Arch installation guide:
-https://wiki.archlinux.org/title/Installation_guide
+https://wiki.archlinux.org/title/#Installation_guide
 (Live graphical installer is planned for future releases.)
 
-Download
+#Download
 ISO:https://drive.google.com/drive/folders/1fBfoFF4MfsUaNHUeIZRxpC04UtPYbV7i?usp=sharing
 SHA256: (coming soon)
