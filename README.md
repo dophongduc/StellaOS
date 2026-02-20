@@ -10,5 +10,13 @@ Simple. Fast. Yours. – An Arch-based Linux distribution built on top of AxOS.
 [![Linux Foundation](https://img.shields.io/badge/Linux-Foundation-blue?logo=linux)](https://www.linuxfoundation.org/)
 
 Contact:stellaosproject@protonmail.com
-## Status
-https://drive.google.com/drive/folders/1fBfoFF4MfsUaNHUeIZRxpC04UtPYbV7i?usp=sharing
+
+Installation
+Stella currently provides a minimal CLI environment for manual installation.
+Follow the official Arch installation guide:
+https://wiki.archlinux.org/title/Installation_guide
+(Live graphical installer is planned for future releases.)
+
+Download
+	•	ISO:https://drive.google.com/drive/folders/1fBfoFF4MfsUaNHUeIZRxpC04UtPYbV7i?usp=sharing
+	•	SHA256: (coming soon)
