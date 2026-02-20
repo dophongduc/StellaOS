@@ -11,5 +11,4 @@ Simple. Fast. Yours. – An Arch-based Linux distribution built on top of AxOS.
 
 Contact:stellaosproject@protonmail.com
 ## Status
-StellaOS is currently under active development.
-The first ISO release is being built and will be available soon.
+https://drive.google.com/drive/folders/1fBfoFF4MfsUaNHUeIZRxpC04UtPYbV7i?usp=sharing
