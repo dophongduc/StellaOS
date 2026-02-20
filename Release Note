@@ -1,0 +1,26 @@
+## Stella OS v1.1 — Initial Release
+
+First public build of Stella OS.
+
+### Highlights
+- Arch-based system (Ax OS foundation)
+- UEFI boot with Stella branding
+- Minimal CLI live environment
+- Designed for manual installation
+- Clean base for customization
+
+### Installation
+This release provides a minimal live environment.  
+Follow the Arch Linux installation guide:
+https://wiki.archlinux.org/title/Installation_guide
+
+### Download
+ISO: Google Drive link  
+SHA256: (optional)
+
+### Notes
+- Early development release
+- Live GUI installer is not included yet
+- Expect bugs and changes in future versions
+
+Project status: Alpha   
