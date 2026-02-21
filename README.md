@@ -40,3 +40,7 @@ Installation: Full system installed and used as a daily driver
 
 Bootloader, networking, audio, and Hyprland (Wayland) session verified functional under low-resource conditions.
 
+## Release Validation
+
+StellaOS Dev 1.1 has been installed and verified on real hardware from the official ISO.  
+The system has been successfully booted and used as a daily environment after installation.
