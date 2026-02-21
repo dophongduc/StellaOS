@@ -42,3 +42,4 @@ Installation: Full system installed and used as a daily driver
 
 Bootloader, networking, audio, and Hyprland (Wayland) session verified functional under low-resource conditions.
 
+External SSD automatic boot verified on HP Insyde BIOS (no manual boot selection required).
