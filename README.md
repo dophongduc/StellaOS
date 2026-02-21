@@ -1,4 +1,4 @@
-# StellaOS
+ý# StellaOS
 Simple. Fast. Yours. – An Arch-based Linux distribution built on top of AxOS.
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
@@ -24,7 +24,7 @@ SHA256: (coming soon)
 ## Hardware Tested
 
 StellaOS Dev 1.1 has been successfully tested on:
-- HP laptop (Legacy BIOS)
+- HP laptop (Legacy BIOS+UEFI)
 - External SSD installation
 - UEFI boot
 - Daily usage verification
