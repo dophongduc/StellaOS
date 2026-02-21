@@ -20,3 +20,12 @@ https://wiki.archlinux.org/title/Installation_guide
 Download
 ISO:https://drive.google.com/drive/folders/1fBfoFF4MfsUaNHUeIZRxpC04UtPYbV7i?usp=sharing
 SHA256: (coming soon)
+
+## Hardware Tested
+
+StellaOS Dev 1.1 has been successfully tested on:
+- HP laptop (Legacy BIOS)
+- External SSD installation
+- UEFI boot
+- Daily usage verification
+All core components (bootloader, networking, audio, Hyprland session) were verified to be functional.
