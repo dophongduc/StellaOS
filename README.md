@@ -23,10 +23,15 @@ SHA256: (coming soon)
 
 ## Hardware Tested
 
-StellaOS Dev 1.1 has been successfully tested on:
-- HP laptop (Legacy BIOS+UEFI)
-- External SSD installation
-- UEFI boot
-- Daily usage verification
+StellaOS Dev 1.1 has been validated on real hardware:
 
-All core components (bootloader, networking, audio, Hyprland session) were verified to be functional.
+Device: HP Envy Notebook (circa 2010s)
+Firmware: Insyde BIOS (UEFI + Legacy support)
+CPU: Intel Core i5-6200U (Skylake)
+GPU: Intel HD Graphics 520 (Integrated, Skylake Gen9)
+RAM: 4 GB
+Storage: Kingston XS1000 External SSD (1TB)
+Installation: Full system installed and used as a daily driver
+
+Bootloader, networking, audio, and Hyprland (Wayland) session verified functional under low-resource conditions.
+
