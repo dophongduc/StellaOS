@@ -25,11 +25,16 @@ SHA256: (coming soon)
 
 StellaOS Dev 1.1 has been validated on real hardware:
 
-Device: HP Envy Notebook (circa 2010s)
+Device: HP Envy Notebook 
+
 Firmware: Insyde BIOS (UEFI + Legacy support)
+
 CPU: Intel Core i5-6200U (Skylake)
+
 GPU: Intel HD Graphics 520 (Integrated, Skylake Gen9)
+
 RAM: 4 GB
+
 Storage: Kingston XS1000 External SSD (1TB)
 Installation: Full system installed and used as a daily driver
 
