@@ -28,4 +28,5 @@ StellaOS Dev 1.1 has been successfully tested on:
 - External SSD installation
 - UEFI boot
 - Daily usage verification
+
 All core components (bootloader, networking, audio, Hyprland session) were verified to be functional.
