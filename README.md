@@ -14,10 +14,39 @@ Simple. Fast. Yours. – An Arch-based Linux distribution built on top of AxOS.
 Contact:stellaosproject@protonmail.com
 
 Installation
-Stella currently provides a minimal CLI environment for manual installation.
-Follow the official Arch installation guide:
-https://wiki.archlinux.org/title/Installation_guide
-(Live graphical installer is planned for future releases.)
+
+StellaOS uses the official ArchISO environment and relies on archinstall for system installation.
+
+This approach keeps the installation process simple, minimal, and fully aligned with upstream Arch Linux.
+
+Steps
+
+1.Boot the StellaOS ISO.
+
+2.Connect to the internet (Wi-Fi or Ethernet).
+3.Run the installer:archinstall
+
+4.Follow the guided menu to configure:
+Disk partitioning
+
+Desktop environment (GNOME, KDE, Hyprland, etc.)
+Bootloader
+
+Users and passwords
+
+Reboot after installation is complete.
+
+Notes
+
+StellaOS is intentionally minimal. No desktop environment is preinstalled.
+
+Users are free to choose their preferred environment during installation.
+
+For detailed configuration guidance, please refer to the Arch Wiki:
+
+Arch Installation Guide: https://wiki.archlinux.org/title/Installation_guide
+
+Archinstall Documentation: https://wiki.archlinux.org/title/Archinstall
 
 Download
 ISO:https://drive.google.com/drive/folders/1fBfoFF4MfsUaNHUeIZRxpC04UtPYbV7i?usp=sharing
