@@ -1,0 +1,18 @@
+Hardware Requirements
+
+Minimum (Recommended for smooth usage):
+	•	64-bit x86 CPU (Intel Skylake or newer recommended)
+	•	4 GB RAM (8 GB recommended for better multitasking)
+	•	20 GB storage
+	•	UEFI firmware (Legacy supported but not guaranteed)
+
+## GPU Compatibility
+
+Current validation status for StellaOS Dev 1.1:
+
+- Intel integrated graphics: fully tested and recommended
+- AMD graphics: not officially tested
+- NVIDIA graphics: not officially tested
+
+StellaOS Dev 1.1 is primarily validated on Intel integrated graphics systems.  
+Compatibility with other GPUs may vary and could require additional configuration.
